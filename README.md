@@ -1,5 +1,5 @@
 # remix-blog-tutorial
-Repo of my code after walking through the Remix v1 docs blog post tutorial.
+Repo of my code after walking through the Remix v1 docs [blog post tutorial](https://remix.run/docs/en/1.19.3/tutorials/blog).
 Created on top of the Remix Indie Stack.
 
 ![image](https://github.com/g-otn/remix-blog-tutorial/assets/44736064/5d041306-5a78-46a0-b883-4d4201995e9f)
