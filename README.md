@@ -1,3 +1,17 @@
+# remix-blog-tutorial
+Repo of my code after walking through the Remix v1 docs blog post tutorial.
+Created on top of the Remix Indie Stack.
+
+![image](https://github.com/g-otn/remix-blog-tutorial/assets/44736064/5d041306-5a78-46a0-b883-4d4201995e9f)
+
+![image](https://github.com/g-otn/remix-blog-tutorial/assets/44736064/0c6efa0b-62f0-4704-9e96-d81e9dcb6561)
+
+
+<details>
+
+  <summary>Original README.md</summary>
+
+
 # Remix Indie Stack
 
 ![The Remix Indie Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
@@ -172,3 +186,6 @@ This project uses ESLint for linting. That is configured in `.eslintrc.js`.
 ### Formatting
 
 We use [Prettier](https://prettier.io/) for auto-formatting in this project. It's recommended to install an editor plugin (like the [VSCode Prettier plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)) to get auto-formatting on save. There's also a `npm run format` script you can run to format all files in the project.
+
+
+</details>
